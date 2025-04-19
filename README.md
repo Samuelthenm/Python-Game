@@ -27,6 +27,8 @@ To run the game:
 1. Make sure you have Python 3 and Pygame installed:
    ```bash
    pip install pygame
+python main.py
+
 
 ## 🖼 Gameplay Preview
 
