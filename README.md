@@ -6,7 +6,7 @@ A girly, Flappy Bird-style game made with Python, inspired by Nyan Cat and built
 
 You control a flying cat (or a yellow block with eyes!) by pressing the spacebar to flap and avoid crashing into pipes. The game speeds up and tracks your score — it's simple, chaotic, and fun.
 
-![Python Game Dashboard Demo](public/Cat%20game%20recording.gif)
+![Python Game Demo](cat-game-recording.gif)
 
 ## 🛠 Tech Stack
 
